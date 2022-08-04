@@ -4,4 +4,4 @@
 # ESTOU APRENDENDO
 
 ![Scratch](https:///img.shields.io/badge/Scrsatch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javasript&logoColor=F7DF1E)
